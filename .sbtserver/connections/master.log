@@ -1,0 +1,28 @@
+New log file opened at Wed Jul 29 18:57:41 IST 2015 by 4664@CSCINDAE727092
+Taking next connection to: 62745
+New client attempting to connect on port: 62746-62745
+  Address = /20.198.67.166:62745
+This client on port 62746 has uuid 4d8a288f-1e8b-4d51-8364-616e6be4767e configName play-fork-run humanReadableName Play Fork Run protocolVersion 1 featureTags Vector()
+Connected Clients: play-fork-run-4d8a288f-1e8b-4d51-8364-616e6be4767e
+Taking next connection to: 62745
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 62745
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 62745
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 62745
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 62745
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 62745
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 62745
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 62745
